@@ -26,7 +26,7 @@ $(document).ready(function() {
         },
         'Scallion Pancake': {
             description: 'Crispy, flaky flatbreads loaded with fragrant scallions, making for a savory snack or side dish.',
-            img: 'https://www.gqfood.com.tw/archive/image/product1/images/azbs_03.jpg'
+            img: 'https://blog.fresh123.net/wp-content/uploads/50449351528_976adfdcfe_h.jpg'
         },
         'Three-Cup Chicken': {
             description: 'A classic dish made with equal parts soy sauce, sesame oil, and rice wine, creating a rich, fragrant sauce for the chicken.',
@@ -46,7 +46,7 @@ $(document).ready(function() {
         },
         'Shaved Ice': {
             description: 'Finely shaved ice piled high, drizzled with sweet syrup, and topped with various toppings like fruit, beans, and taro balls.',
-            img: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-J8Z-AZ7B0V-_26ZndnrxAGoMEvz5-VPXTyHjmoxlkZ8IagP4'
+            img: 'https://cdn2.ettoday.net/images/4178/d4178642.jpg'
         },
         // Add the rest of the foods here following the same pattern
         'Pineapple Cake': {
