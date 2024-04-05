@@ -1,3 +1,4 @@
+//food descriptions and image link
 $(document).ready(function() {
     var foodDetails = {
         'Beef Noodle Soup': {
@@ -55,6 +56,7 @@ $(document).ready(function() {
         }
     };
 
+// retrieve object details when clicked
 $('#food-list li').click(function() {
         var foodItem = $(this).data('food');
         var details = foodDetails[foodItem];
